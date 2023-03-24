@@ -3,7 +3,7 @@ dhairyasingla09
 using namespace std;
 
 int main(){
-     n friends
+     /*n friends
      k bottles
      total_ml=k*l
      total_limes= c*d  -> d hisse, c lemons
@@ -16,7 +16,7 @@ int main(){
       
       drinks -> n *(nl) * x = k*l
       lime   -> n * x = cd
-      salt  ->  n * (np) * x = p
+      salt  ->  n * (np) * x = p */
  
   int n, k, l, c, d, p, nl, np;
   cin>>n>>k>>l>>c>>d>>p>>nl>>np;
